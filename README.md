@@ -12,7 +12,7 @@ Talk to me about
 
 ### 👨‍💻 Open source work stats
 
-![martinyan's Github stats](https://github.com/wenMN1994)
+![Dragon's Github stats](https://github-readme-stats.vercel.app/api?username=wenMN1994&show_icons=true)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 ### 📫 Reach me 

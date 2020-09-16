@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align="left" alt="Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wenMN1994&show_icons=true&hide_border=true&count_private=true" />
-
 ### ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript, CSS, Vue**

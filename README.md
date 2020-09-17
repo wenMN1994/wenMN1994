@@ -7,12 +7,6 @@ Talk to me about
 - Architecture design for Relational Database Management Systems like **MySQL** as well as for NoSQL database systems like **Redis**
 - Message middleware**RabbitMQ**
 
-
-### 👨‍💻 Open source work stats
-
-![Dragon's Github stats](https://github-readme-stats.vercel.app/api?username=wenMN1994&show_icons=true)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
-
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
